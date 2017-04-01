@@ -1,0 +1,21 @@
+html, body {
+	background-color: grey;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header, footer {
+	color: white;
+}
+
+footer {
+	font-style: italic;
+}
+
+.content {
+	border-radius: 5px;
+	box-shadow: 0 0 5px 1px grey;
+	background-color: white;
+	margin: 10px 0;
+	min-height: 500px;
+	padding: 20px;
+}
