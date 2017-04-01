@@ -1,0 +1,71 @@
+
+/* Common */
+
+ul {
+	list-style: none;
+}
+
+/* Exercise One */
+
+button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #FF9800;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin: 20px;
+  min-width: 200px;
+}
+
+button:hover {background-color: #E65100}
+
+button:active {
+  background-color: #E65100;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+/* Exercise Two */
+.content {
+	display: flex;
+}
+
+.content-two {
+	height: 320px;
+}
+
+.content-two .section {
+	width: 300px;
+	height: 300px;
+	margin: 15px;
+}
+
+.content-two .section-one {
+	background-color: orange;
+}
+
+.content-two .section-two {
+	background-color: red;
+}
+
+.content-two .section-three {
+	background-color: purple;
+}
+
+.classOne {
+	color: cyan;
+	font-size: 45px;
+	font-family: sans-serif;
+}
+
+.classTwo {
+	color: green;
+	font-size: 90px;
+	font-family: cursive;
+	font-style: bold;
+}
