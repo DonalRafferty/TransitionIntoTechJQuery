@@ -15,7 +15,8 @@ $(document).ready(function(){
         	opacity: '0.8',
         	height: '150px',
         	width: '150px',
-        	borderRadius: '150px'
+        	borderRadius: '150px',
+            backgroundColor: 'pink'
     	}, time);
     	$(".section-one").animate({
         	left: '15px',
