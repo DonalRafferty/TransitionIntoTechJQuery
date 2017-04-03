@@ -1,2 +1,2 @@
-# oconnortransition.github.io
-My Public Site
+# JQuery - Finished example website
+
