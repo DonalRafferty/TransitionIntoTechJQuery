@@ -1,17 +1,17 @@
 # Transition into Tech
 
-This repository contains the finished example code for the six tasks those taking part should achieve during the jQuery portion of the programme, as well as a finished example website based on the Chubb the Pug template.
+This repository contains the finished example code for six examples of feaures those taking part should achieve during the jQuery portion of the programme, as well as a finished example website based on the Chubb the Pug template.
 
 The tasks cover the following topics:
 
-* Task 1 - Click event tracking
-* Task 2 - Hide/Show elements
-* Task 3 - Fade/Slide animations
-* Task 4 - Simple Custom animation
-* Task 5 - Add/Remove CSS classes
-* Task 6 - jQuery AJAX to fetch data from a file
+* Example 1 - Click event tracking
+* Example 2 - Hide/Show elements
+* Example 3 - Fade/Slide animations
+* Example 4 - Simple Custom animation
+* Example 5 - Add/Remove CSS classes
+* Example 6 - jQuery AJAX to fetch data from a file
 
-Once completed those taking part should try to apply what they have learned to their own website they have been working on during day 1 & day 2.
+Once reviewed those taking part should try to use these examples as references to apply what they have learned to their own website they have been working on during day 1 & day 2.
 
 The finishedWeb folder contains an example of using these techniques on a web page based on the Chubb the Pug template.
 

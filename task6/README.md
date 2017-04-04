@@ -1,4 +1,4 @@
-# Task 6
+# Example 6
 
 This is a very basic example showing how to use AJAX with jQuery to retrive some data from a file and display it on the web page.
 

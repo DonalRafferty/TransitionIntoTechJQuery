@@ -1,4 +1,4 @@
-# Task 3
+# Example 3
 
 This is a simple example of using jQueries built in Fade and Slide animations
 
