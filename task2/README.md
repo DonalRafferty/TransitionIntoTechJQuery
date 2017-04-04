@@ -1,4 +1,4 @@
-# Task 2
+# Example 2
 
 This task is a simple example of showing and hiding some HTML elements.
 
