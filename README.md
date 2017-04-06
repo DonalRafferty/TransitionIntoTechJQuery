@@ -1,6 +1,6 @@
 # Transition into Tech
 
-This repository contains the finished example code for six examples of feaures those taking part should achieve during the jQuery portion of the programme, as well as a finished example website based on the Chubb the Pug template.
+This repository contains the finished example code for six examples of features those taking part should achieve during the jQuery portion of the programme, as well as a finished example website based on the Chubb the Pug template.
 
 The tasks cover the following topics:
 
